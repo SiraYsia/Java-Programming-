@@ -1,0 +1,6 @@
+umcp/college1.jpg,300,400,10/18/2020-17:10
+umcp/college8.jpg,200,200,10/20/2020-18:10
+umcp/college3.jpg,300,400,10/11/2020-17:10
+umcp/college4.jpg,200,200,09/18/2020-18:10
+umcp/college7.jpg,300,400,10/18/2020-17:10
+

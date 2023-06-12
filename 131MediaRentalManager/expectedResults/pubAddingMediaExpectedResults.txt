@@ -1,0 +1,7 @@
+***** Media Information *****
+Title: Bad, Copies Available: 2, Artist: Mike J, Songs: Mirror, Far Away
+Title: Gone with the Wind, Copies Available: 2, Rating: PG
+Title: Jaws, Copies Available: 4, Rating: R
+Title: Journey, Copies Available: 1, Artist: ABBA, Songs: Yesterday, Hello
+Title: Mickey, Copies Available: 1, Rating: PG
+Title: Rocky, Copies Available: 3, Rating: PG

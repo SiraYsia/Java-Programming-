@@ -1,0 +1,4 @@
+Thompson,Elizabeth,Iris
+THOMPSON,ELIZABETH,IRIS
+thompson,elizabeth,iris
+thompson<elizabeth<iris

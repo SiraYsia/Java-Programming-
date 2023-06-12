@@ -1,0 +1,33 @@
+After adding to queues
+***** Customers' Information *****
+Name: Albert, Mike, Address: 11 Apple Mount VA, Plan: LIMITED
+Rented: []
+Queue: [Rocky, Mickey, Journey]
+Name: Park, Laura, Address: 227 Park Lane DC, Plan: UNLIMITED
+Rented: []
+Queue: []
+Name: Smith, John, Address: 354 South J Ave MD, Plan: UNLIMITED
+Rented: []
+Queue: [Mickey, Jaws]
+Result of processing requests
+Sending Rocky to Albert, Mike
+Sending Mickey to Albert, Mike
+Sending Jaws to Smith, John
+After processing requests
+***** Customers' Information *****
+Name: Albert, Mike, Address: 11 Apple Mount VA, Plan: LIMITED
+Rented: [Rocky, Mickey]
+Queue: [Journey]
+Name: Park, Laura, Address: 227 Park Lane DC, Plan: UNLIMITED
+Rented: []
+Queue: []
+Name: Smith, John, Address: 354 South J Ave MD, Plan: UNLIMITED
+Rented: [Jaws]
+Queue: [Mickey]
+***** Media Information *****
+Title: Bad, Copies Available: 2, Artist: Mike J, Songs: Mirror, Far Away
+Title: Gone with the Wind, Copies Available: 2, Rating: PG
+Title: Jaws, Copies Available: 3, Rating: R
+Title: Journey, Copies Available: 1, Artist: ABBA, Songs: Yesterday, Hello
+Title: Mickey, Copies Available: 0, Rating: PG
+Title: Rocky, Copies Available: 2, Rating: PG

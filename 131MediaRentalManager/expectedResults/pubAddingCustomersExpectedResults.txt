@@ -1,0 +1,10 @@
+***** Customers' Information *****
+Name: Albert, Mike, Address: 11 Apple Mount VA, Plan: LIMITED
+Rented: []
+Queue: []
+Name: Park, Laura, Address: 227 Park Lane DC, Plan: UNLIMITED
+Rented: []
+Queue: []
+Name: Smith, John, Address: 354 South J Ave MD, Plan: UNLIMITED
+Rented: []
+Queue: []
